@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm Josh
 
 ### 🚀 About Me
 
