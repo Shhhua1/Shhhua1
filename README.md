@@ -4,26 +4,48 @@
 
 ---
 
-## 👋 Hi, I'm Josh
+# 👋 Hi there! I'm Josh
 
-### 🚀 About Me
-
-I'm a passionate developer who enjoys building engaging and impactful software.  
-You can update this section with your:
-
-- 🌱 What you’re currently learning
-- 💬 Ask me about your favorite tech
-- 🔭 Projects you’re working on
-- ⚡ Fun facts about you
+I'm passionate about **Data Analytics**, **Data Visualization**, and building insights from data. I hold a **Bachelor's degree in Computer Science**, and I'm always eager to learn and grow in the tech and data space.
 
 ---
 
-### 📫 Connect with me
+## 📊 What I Do
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Portfolio](#)
+- 🔍 Turn data into actionable insights
+- 📈 Create clear, engaging visualizations using modern tools
+- 🛠 Analyze trends and patterns to support decision-making
+- 🧠 Continuously improve my skills in analytics, machine learning, and software development
 
 ---
 
+## 🧰 Tools & Technologies
 
+- **Languages**: Python, SQL, C++
+- **Visualization**: Matplotlib
+- **Analytics**: Pandas, NumPy, Scikit-learn
+- **Databases**: MySQL, SQLite
+- **Other**: Git/GitHub, Jupyter Notebook, Excel
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/josh-d-158587101/)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## ✨ Fun Facts
+
+- 🧩 I enjoy solving data puzzles and finding stories in numbers.
+- 🌍 I'm curious about how data shapes the world around us.
+- 📚 Lifelong learner — currently exploring machine learning and Power BI.
+
+Thanks for stopping by! Feel free to connect or reach out.
