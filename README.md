@@ -10,16 +10,16 @@ I'm passionate about **Data Analytics**, **Data Visualization**, and building in
 
 ---
 
-## 📊 What I Do
+##  What I Do
 
-- 🔍 Turn data into actionable insights
-- 📈 Create clear, engaging visualizations using modern tools
-- 🛠 Analyze trends and patterns to support decision-making
-- 🧠 Continuously improve my skills in analytics, machine learning, and software development
+-  Turn data into actionable insights
+-  Create clear, engaging visualizations using modern tools
+-  Analyze trends and patterns to support decision-making
+-  Continuously improve my skills in analytics, machine learning, and software development
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **Languages**: Python, SQL, C++
 - **Visualization**: Matplotlib
@@ -29,23 +29,23 @@ I'm passionate about **Data Analytics**, **Data Visualization**, and building in
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/josh-d-158587101/)
+-  [LinkedIn](https://www.linkedin.com/in/josh-d-158587101/)
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shhhua1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shhhua1&layout=compact&theme=radical)
 
 ---
 
-## ✨ Fun Facts
+##  Fun Facts
 
-- 🧩 I enjoy solving data puzzles and finding stories in numbers.
-- 🌍 I'm curious about how data shapes the world around us.
-- 📚 Lifelong learner — currently exploring machine learning and Power BI.
+-  I enjoy solving data puzzles and finding stories in numbers.
+-  I'm curious about how data shapes the world around us.
+-  Lifelong learner — currently exploring machine learning and Power BI.
 
 Thanks for stopping by! Feel free to connect or reach out.
