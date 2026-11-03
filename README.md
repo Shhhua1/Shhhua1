@@ -1,51 +1,40 @@
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJxMnI0bHN1NmV6bDFoOTl0YzFmNTFxbWp0cThlMTlwMTljZ2o3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CCgmlQ8DlLd31e/giphy.gif" alt="Code Matrix Banner" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJxMnI0bHN1NmV6bDFoOTl0YzFmNTFxbWp0cThlMTlwMTljZ2o3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CCgmlQ8DlLd31e/giphy.gif" alt="Code Matrix Banner" width="600"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF2A6D&center=true&vCenter=true&width=500&lines=Hey+I%27m+Josh;Python+%7C+SQL+%7C+C%2B%2B" alt="Typing intro"/>
+</p>
 
-# 👋 Hi there! I'm Josh
+# How'd you find my Github
 
-I'm passionate about **Data Analytics**, **Data Visualization**, and building insights from data. I hold a **Bachelor's degree in Computer Science**, and I'm always eager to learn and grow in the tech and data space.
+CS burnout, still here  
+I don't post here much
 
----
+## What I work with
 
-##  What I Do
+````bash
+Josh@workstation:~$ tree ~/stack
+stack
+├── languages
+│   └── python, sql, c++
+├── data
+│   └── pandas, numpy, scikit-learn, matplotlib
+├── databases
+│   └── mysql, sqlite
+└── other
+    └── git, jupyter, excel
 
--  Turn data into actionable insights
--  Create clear, engaging visualizations using modern tools
--  Analyze trends and patterns to support decision-making
--  Continuously improve my skills in analytics, machine learning, and software development
+Josh@workstation:~$ _
+````
 
----
+## Find me
 
-##  Tools & Technologies
+[LinkedIn](https://www.linkedin.com/in/josh-d-158587101/)
 
-- **Languages**: Python, SQL, C++
-- **Visualization**: Matplotlib
-- **Analytics**: Pandas, NumPy, Scikit-learn
-- **Databases**: MySQL, SQLite
-- **Other**: Git/GitHub, Jupyter Notebook, Excel
+## Stats
 
----
-
-##  Get in Touch
-
--  [LinkedIn](https://www.linkedin.com/in/josh-d-158587101/)
-
----
-
-##  GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shhhua1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shhhua1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shhhua1&layout=compact&theme=radical)
-
----
-
-##  Fun Facts
-
--  I enjoy solving data puzzles and finding stories in numbers.
--  I'm curious about how data shapes the world around us.
--  Lifelong learner — currently exploring machine learning and Power BI.
-
-Thanks for stopping by! Feel free to connect or reach out.
+````
+````
